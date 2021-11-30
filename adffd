@@ -1,0 +1,8 @@
+
+$ \displaystyle \sum_{i=0}^{k}\left(\begin{array}{c}
+     n+i\\i
+\end{array}\right) \quad\textbf{=} \quad\left(\begin{array}{c}
+     n+k+1\\k
+\end{array}\right)
+$\Huge{$|$}\large{$_{k=r}   $} 
+\qquad\qquad \textbf{$_{\square}$}
